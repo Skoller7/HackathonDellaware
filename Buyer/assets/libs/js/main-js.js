@@ -109,9 +109,15 @@ jQuery(document).ready(function($) {
         $('p:first-child').hide();
 
         $('button').on('click', function(){
-            window.location="../../Buyer/information_about_load.html";
+            $('p:first-child').toggle();
+
+            $('#ask').on('click', function() {
+                $(this).hide();
+            });
+
         });
     });
+
 
 }); // AND OF JQUERY
 

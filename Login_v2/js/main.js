@@ -86,4 +86,51 @@
     });
 
 
+
+
 })(jQuery);
+
+function validateForm() {
+    console.log("test");
+    var un = document.loginform.usr.value;
+    var pw = document.loginform.pword.value;
+    var username = "sab";
+    var password = "pass";
+    var userk = "sabk";
+    var passk = "passk";
+    if ((un == username) && (pw == password)) {
+
+        return true;
+    }
+    else if ((un == userk) && (pw == passk)){
+        document.getElementById("href1").click();
+        return true;
+    }
+    else {
+        alert ("Login was unsuccessful, please check your username and password");
+        return false;
+    }
+}
+
+$('#login-form-btn-check').click(function(){
+    console.log("test");
+    var un = document.getElementById('usr').value;
+    var pw = document.getElementById('pword').value;
+    var username = "sab";
+    var password = "pass";
+    var userk = "sabk";
+    var passk = "passk";
+    console.log(un + pw);
+    if ((un == username) && (pw == password)) {
+        console.log("entered sab pass if statement");
+       window.location= "../concept-master/index.html";
+
+    }
+    else if ((un == userk) && (pw == passk)){
+        window.location= "../light-bootstrap-dashboard-html-v2.0.1/examples/dashboard.html";
+    }
+    else {
+        alert ("Login was unsuccessful, please check your username and password");
+        return false;
+    }
+});

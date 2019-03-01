@@ -23,9 +23,10 @@ var MNEMONIC = "panda voice ripple lucky session what clay wild also nominee scr
   // },
   ropsten: {
     provider: function() {
-      return new HDWalletProvider(MNEMONIC, 'https://ropsten.infura.io/4017b2e363014111adbb3b26a4240cf0')
+      return new HDWalletProvider(MNEMONIC, 'https://ropsten.infura.io/d8ad6516506b45cf84a09fac6314cbbf')
       },
-      network_id: '3', // factory addres here 0x6e5F94401Fd5046A6e3eAaAf79299146E987B333.
+      network_id: '3', // factory addres here 0xc1B0746fBEAEc1D192290c8a32AB405A4f600685
+      //boer 1 address : 0x82bf79c45Fbd01edcB08Cc0aC3785B27D9677A14
     }
   }
 };

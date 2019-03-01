@@ -21,6 +21,8 @@ contract BoerFactory {
 contract BoerContract {
 
     jaarSubContract[]public deployedJaarSubContracts;
+    loadContract[]public deployedLoads;
+
     address public contractOwner;
 
     constructor(address creator) public {
@@ -37,6 +39,11 @@ contract BoerContract {
 
     function getDeployedContracts() public view returns(jaarSubContract[] memory){
         return deployedJaarSubContracts;
+    }
+
+        function createLoad(uint loadId, uint companyId)public{ //loadId & companyId om te achterhalen van waar de load komt + dataseller.
+        loadContract newDeployedLoad = new loadContract(loadId, companyId, contractOwner);
+        deployedLoads.push(newDeployedLoad);
     }
 }
 
@@ -140,5 +147,3 @@ contract loadContract { //kiezen of load items gezien mogen worden door iedereen
 
 
 }
-
-

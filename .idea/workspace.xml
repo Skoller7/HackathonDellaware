@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e05c8898-2995-4647-9ae3-e22b0fb3a8e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/concept-master/documentation/js/blockchain.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concept-master/dashboard-influencer.html" beforeDir="false" afterPath="$PROJECT_DIR$/concept-master/dashboard-influencer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solidity/build/contracts/BoerContract.json" beforeDir="false" afterPath="$PROJECT_DIR$/Solidity/build/contracts/BoerContract.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solidity/build/contracts/BoerFactory.json" beforeDir="false" afterPath="$PROJECT_DIR$/Solidity/build/contracts/BoerFactory.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solidity/build/contracts/Migrations.json" beforeDir="false" afterPath="$PROJECT_DIR$/Solidity/build/contracts/Migrations.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solidity/build/contracts/jaarSubContract.json" beforeDir="false" afterPath="$PROJECT_DIR$/Solidity/build/contracts/jaarSubContract.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solidity/build/contracts/loadContract.json" beforeDir="false" afterPath="$PROJECT_DIR$/Solidity/build/contracts/loadContract.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solidity/contracts/BoerContract.sol" beforeDir="false" afterPath="$PROJECT_DIR$/Solidity/contracts/BoerContract.sol" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solidity/contracts/BoerFactory.sol" beforeDir="false" afterPath="$PROJECT_DIR$/Solidity/contracts/BoerFactory.sol" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solidity/contracts/JaarSubContract.sol" beforeDir="false" afterPath="$PROJECT_DIR$/Solidity/contracts/JaarSubContract.sol" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solidity/contracts/loadContract.sol" beforeDir="false" afterPath="$PROJECT_DIR$/Solidity/contracts/loadContract.sol" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solidity/truffle.js" beforeDir="false" afterPath="$PROJECT_DIR$/Solidity/truffle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concept-master/pages/data-tables.html" beforeDir="false" afterPath="$PROJECT_DIR$/concept-master/pages/data-tables.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,61 +22,79 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-701800531">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="html" value="5" />
-          <entry key="js" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="HTML" value="5" />
-          <entry key="JavaScript" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="html" value="290" />
-          <entry key="txt" value="25" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="HTML" value="290" />
-          <entry key="PLAIN_TEXT" value="25" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/concept-master/dashboard-influencer.html">
+        <entry file="file://$PROJECT_DIR$/concept-master/documentation/js/blockchain.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="161" column="105" selection-start-line="161" selection-start-column="105" selection-end-line="161" selection-end-column="105" />
+            <state relative-caret-position="697">
+              <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/concept-master/dashboard-finance.html">
+        <entry file="file://$PROJECT_DIR$/concept-master/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="139" column="79" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="139" selection-end-column="79" />
+            <state relative-caret-position="68">
+              <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/concept-master/pages/data-tables.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="589">
+              <caret line="377" column="112" lean-forward="true" selection-start-line="377" selection-start-column="112" selection-end-line="377" selection-end-column="112" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Solidity/truffle.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="67" selection-start-line="28" selection-start-column="67" selection-end-line="28" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/concept-master/documentation/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Solidity/contracts/Migrations.sol">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Solidity/contracts/BoerContract.sol">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="855">
+              <caret line="148" column="1" selection-start-line="148" selection-start-column="1" selection-end-line="148" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -76,27 +105,30 @@
         <option value="$PROJECT_DIR$/Login_v2/index.html" />
         <option value="$PROJECT_DIR$/concept-master/dashboard-finance.html" />
         <option value="$PROJECT_DIR$/concept-master/dashboard-influencer.html" />
+        <option value="$PROJECT_DIR$/Solidity/contracts/BoerContract.sol" />
+        <option value="$PROJECT_DIR$/Solidity/contracts/BoerFactory.sol" />
+        <option value="$PROJECT_DIR$/Solidity/contracts/JaarSubContract.sol" />
+        <option value="$PROJECT_DIR$/Solidity/contracts/loadContract.sol" />
+        <option value="$PROJECT_DIR$/Solidity/truffle.js" />
+        <option value="$PROJECT_DIR$/concept-master/pages/data-tables.html" />
+        <option value="$PROJECT_DIR$/concept-master/documentation/js/blockchain.js" />
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1280" />
-    <option name="height" value="800" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="946" />
+    <option name="width" value="981" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -112,19 +144,50 @@
             <path>
               <item name="HackathonDellaware" type="b2602c69:ProjectViewProjectNode" />
               <item name="HackathonDellaware" type="462c0819:PsiDirectoryNode" />
-              <item name="Login_v2" type="462c0819:PsiDirectoryNode" />
+              <item name="concept-master" type="462c0819:PsiDirectoryNode" />
+              <item name="documentation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HackathonDellaware" type="b2602c69:ProjectViewProjectNode" />
               <item name="HackathonDellaware" type="462c0819:PsiDirectoryNode" />
-              <item name="Login_v2" type="462c0819:PsiDirectoryNode" />
+              <item name="concept-master" type="462c0819:PsiDirectoryNode" />
+              <item name="documentation" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HackathonDellaware" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackathonDellaware" type="462c0819:PsiDirectoryNode" />
+              <item name="concept-master" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HackathonDellaware" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackathonDellaware" type="462c0819:PsiDirectoryNode" />
+              <item name="Solidity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HackathonDellaware" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackathonDellaware" type="462c0819:PsiDirectoryNode" />
+              <item name="Solidity" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HackathonDellaware" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackathonDellaware" type="462c0819:PsiDirectoryNode" />
+              <item name="Solidity" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="contracts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HackathonDellaware" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackathonDellaware" type="462c0819:PsiDirectoryNode" />
+              <item name="Solidity" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -145,10 +208,10 @@
     </option>
   </component>
   <component name="RunManager" selected="JavaScript Debug.dashboard-finance.html">
-    <configuration name="dashboard-finance.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HackathonDellaware/concept-master/dashboard-finance.html">
+    <configuration name="dashboard-finance.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HackathonDellaware/concept-master/dashboard-finance.html">
       <method v="2" />
     </configuration>
-    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HackathonDellaware/concept-master/index.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HackathonDellaware/concept-master/index.html">
       <method v="2" />
     </configuration>
     <list>
@@ -186,16 +249,15 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2773000" />
+    <option name="totallyTimeSpent" value="9318000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <frame x="946" y="0" width="981" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21498372" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" visible="true" weight="0.074229695" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -208,49 +270,142 @@
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" visible="true" weight="0.074229695" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34275362" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="changing layout" />
     <option name="LAST_COMMIT_MESSAGE" value="changing layout" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/concept-master/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/concept-master/dashboard-finance.html" />
+    <entry file="file://$PROJECT_DIR$/concept-master/dashboard-influencer.html" />
     <entry file="file://$PROJECT_DIR$/Login_v2/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2617" />
+        <state relative-caret-position="569">
+          <caret line="97" column="24" selection-start-line="97" selection-start-column="20" selection-end-line="97" selection-end-column="24" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Login_v2/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="59" column="60" selection-start-line="59" selection-start-column="60" selection-end-line="59" selection-end-column="60" />
+        <state relative-caret-position="470">
+          <caret line="52" column="57" selection-start-line="52" selection-start-column="57" selection-end-line="52" selection-end-column="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/concept-master/dashboard-finance.html">
+    <entry file="file://$PROJECT_DIR$/Solidity/migrations/2_deploy_contracts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="139" column="79" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="139" selection-end-column="79" />
+        <state relative-caret-position="561">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/concept-master/dashboard-influencer.html">
+    <entry file="file://$PROJECT_DIR$/Solidity/contracts/BoerContract.sol">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="161" column="105" selection-start-line="161" selection-start-column="105" selection-end-line="161" selection-end-column="105" />
+        <state relative-caret-position="855">
+          <caret line="148" column="1" selection-start-line="148" selection-start-column="1" selection-end-line="148" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solidity/contracts/BoerFactory.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="841">
+          <caret line="149" column="1" selection-start-line="149" selection-start-column="1" selection-end-line="149" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solidity/build/contracts/Migrations.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="1285" column="35" selection-start-line="1285" selection-start-column="35" selection-end-line="1285" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solidity/contracts/JaarSubContract.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="149" column="1" selection-start-line="149" selection-start-column="1" selection-end-line="149" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solidity/migrations/1_initial_migration.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solidity/contracts/loadContract.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="841">
+          <caret line="149" column="1" selection-start-line="149" selection-start-column="1" selection-end-line="149" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/concept-master/documentation/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solidity/contracts/Migrations.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Solidity/truffle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="67" selection-start-line="28" selection-start-column="67" selection-end-line="28" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/concept-master/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/concept-master/pages/data-tables.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="377" column="112" lean-forward="true" selection-start-line="377" selection-start-column="112" selection-end-line="377" selection-end-column="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/concept-master/documentation/js/blockchain.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
         </state>
       </provider>
     </entry>

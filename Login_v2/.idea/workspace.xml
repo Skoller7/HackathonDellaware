@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e05c8898-2995-4647-9ae3-e22b0fb3a8e3" name="Default Changelist" comment="" />
+    <list default="true" id="d9306635-3d33-41ab-92e6-ec79ab2bfc8f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
@@ -26,8 +32,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="HackathonDellaware" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HackathonDellaware" type="462c0819:PsiDirectoryNode" />
+              <item name="Login_v2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Login_v2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -57,17 +63,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e05c8898-2995-4647-9ae3-e22b0fb3a8e3" name="Default Changelist" comment="" />
-      <created>1551399085891</created>
+      <changelist id="d9306635-3d33-41ab-92e6-ec79ab2bfc8f" name="Default Changelist" comment="" />
+      <created>1551399519643</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1551399085891</updated>
-      <workItem from="1551399087679" duration="338000" />
+      <updated>1551399519643</updated>
+      <workItem from="1551399521131" duration="152000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="338000" />
+    <option name="totallyTimeSpent" value="152000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="817" extended-state="6" />
@@ -95,5 +101,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
   </component>
 </project>

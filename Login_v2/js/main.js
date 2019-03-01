@@ -13,10 +13,10 @@
             else {
                 $(this).removeClass('has-val');
             }
-        })    
+        })
     })
-  
-  
+
+
     /*==================================================================
     [ Validate ]*/
     var input = $('.validate-input .input100');
@@ -65,7 +65,7 @@
 
         $(thisAlert).removeClass('alert-validate');
     }
-    
+
     /*==================================================================
     [ Show pass ]*/
     var showPass = 0;
@@ -82,7 +82,7 @@
             $(this).find('i').removeClass('zmdi-eye-off');
             showPass = 0;
         }
-        
+
     });
 
 
@@ -96,7 +96,7 @@ function validateForm() {
     var pw = document.loginform.pword.value;
     var username = "sab";
     var password = "pass";
-    var userk = "sabk";
+    var userk = "agristo";
     var passk = "passk";
     if ((un == username) && (pw == password)) {
 
@@ -118,7 +118,7 @@ $('#login-form-btn-check').click(function(){
     var pw = document.getElementById('pword').value;
     var username = "sab";
     var password = "pass";
-    var userk = "sabk";
+    var userk = "agristo";
     var passk = "passk";
     console.log(un + pw);
     if ((un == username) && (pw == password)) {
@@ -127,7 +127,7 @@ $('#login-form-btn-check').click(function(){
 
     }
     else if ((un == userk) && (pw == passk)){
-        window.location= "../light-bootstrap-dashboard-html-v2.0.1/examples/dashboard.html";
+        window.location= "../Buyer/index.html";
     }
     else {
         alert ("Login was unsuccessful, please check your username and password");

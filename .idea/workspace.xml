@@ -1,135 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e05c8898-2995-4647-9ae3-e22b0fb3a8e3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/available_loads.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/available_loads.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/checkout_load.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/checkout_load.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/dashboard-influencer.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/dashboard-influencer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/dashboard-sales.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/expenses.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/expenses.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/farmer_profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/farmer_profile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/information_about_load.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/information_about_load.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/pages/accordions.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/pages/accordions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/pages/blank-page-header.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/pages/blank-page-header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/pages/blank-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/pages/blank-page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/pages/bootstrap-select.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/pages/bootstrap-select.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/pages/calendar.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/pages/calendar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/pages/cards.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/pages/cards.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/pages/carousel.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/pages/carousel.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/pages/chart-c3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/pages/chart-c3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/pages/chart-chartist.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/pages/chart-chartist.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/pages/chart-charts.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/pages/chart-charts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/pages/chart-gauge.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/pages/chart-gauge.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/pages/chart-morris.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/pages/chart-morris.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/pages/chart-sparkline.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/pages/chart-sparkline.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/pages/color-picker.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/pages/color-picker.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/pages/cropper-image.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/pages/cropper-image.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/pages/data-tables.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/pages/data-tables.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/pages/datepicker.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/pages/datepicker.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/pages/email-compose.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/pages/email-compose.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/pages/email-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/pages/email-details.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/pages/form-elements.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/pages/form-elements.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/pages/form-validation.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/pages/form-validation.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/pages/general-table.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/pages/general-table.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/pages/general.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/pages/general.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/pages/icon-flag.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/pages/icon-flag.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/pages/icon-fontawesome.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/pages/icon-fontawesome.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/pages/icon-material.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/pages/icon-material.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/pages/icon-simple-lineicon.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/pages/icon-simple-lineicon.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/pages/icon-themify.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/pages/icon-themify.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/pages/icon-weather.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/pages/icon-weather.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/pages/inbox.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/pages/inbox.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/pages/invoice.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/pages/invoice.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/pages/listgroup.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/pages/listgroup.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/pages/map-google.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/pages/map-google.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/pages/map-vector.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/pages/map-vector.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/pages/media-object.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/pages/media-object.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/pages/message-chat.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/pages/message-chat.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/pages/multiselect.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/pages/multiselect.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/pages/pricing.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/pages/pricing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/pages/sortable-nestable-lists.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/pages/sortable-nestable-lists.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/pages/tabs.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/pages/tabs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/pages/timeline.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/pages/timeline.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/pages/typography.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/pages/typography.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buyer/pages/widgets.html" beforeDir="false" afterPath="$PROJECT_DIR$/Buyer/pages/widgets.html" afterDir="false" />
-    </list>
+    <list default="true" id="e05c8898-2995-4647-9ae3-e22b0fb3a8e3" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-701800531">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="css" value="1" />
-          <entry key="html" value="26" />
-          <entry key="js" value="3" />
-          <entry key="xml" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CSS" value="1" />
-          <entry key="HTML" value="26" />
-          <entry key="JavaScript" value="3" />
-          <entry key="XML" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="html" value="1401" />
-          <entry key="js" value="24" />
-          <entry key="txt" value="25" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="HTML" value="1401" />
-          <entry key="JavaScript" value="24" />
-          <entry key="PLAIN_TEXT" value="25" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Buyer/index.html">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/concept-master/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="182" column="97" selection-start-line="182" selection-start-column="97" selection-end-line="182" selection-end-column="97" />
-              <folding>
-                <element signature="n#li#3;n#ul#0;n#div#0;n#nav#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#li#7;n#ul#0;n#div#0;n#nav#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#1;n#div#2;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-              </folding>
+            <state relative-caret-position="68">
+              <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Buyer/all_farmers.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/concept-master/pages/data-tables.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="521" column="36" selection-start-line="521" selection-start-column="36" selection-end-line="521" selection-end-column="36" />
-              <folding>
-                <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#li#2;n#ul#0;n#div#0;n#nav#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#li#3;n#ul#0;n#div#0;n#nav#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#3;n#div#1;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-              </folding>
+            <state relative-caret-position="589">
+              <caret line="378" column="112" selection-start-line="378" selection-start-column="112" selection-end-line="378" selection-end-column="112" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/concept-master/documentation/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -165,12 +68,6 @@
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
   <component name="PhpServers">
     <servers />
   </component>
@@ -183,6 +80,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -193,36 +91,36 @@
             <path>
               <item name="HackathonDellaware" type="b2602c69:ProjectViewProjectNode" />
               <item name="HackathonDellaware" type="462c0819:PsiDirectoryNode" />
-              <item name="Buyer" type="462c0819:PsiDirectoryNode" />
+              <item name="concept-master" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HackathonDellaware" type="b2602c69:ProjectViewProjectNode" />
               <item name="HackathonDellaware" type="462c0819:PsiDirectoryNode" />
-              <item name="Buyer" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="concept-master" type="462c0819:PsiDirectoryNode" />
+              <item name="documentation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HackathonDellaware" type="b2602c69:ProjectViewProjectNode" />
               <item name="HackathonDellaware" type="462c0819:PsiDirectoryNode" />
-              <item name="Buyer" type="462c0819:PsiDirectoryNode" />
+              <item name="concept-master" type="462c0819:PsiDirectoryNode" />
+              <item name="documentation" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HackathonDellaware" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackathonDellaware" type="462c0819:PsiDirectoryNode" />
+              <item name="concept-master" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HackathonDellaware" type="b2602c69:ProjectViewProjectNode" />
               <item name="HackathonDellaware" type="462c0819:PsiDirectoryNode" />
-              <item name="Login_v2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HackathonDellaware" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HackathonDellaware" type="462c0819:PsiDirectoryNode" />
-              <item name="Login_v2" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="Solidity" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -249,27 +147,27 @@
     </option>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html (2)">
-    <configuration name="dashboard.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HackathonDellaware/Buyer/BS3/dashboard.html">
+    <configuration name="dashboard.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HackathonDellaware/Buyer/BS3/dashboard.html">
       <method v="2" />
     </configuration>
-    <configuration name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HackathonDellaware/Login_v2/index.html">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HackathonDellaware/Login_v2/index.html">
       <method v="2" />
     </configuration>
-    <configuration name="index.html (2)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HackathonDellaware/Buyer/index.html">
+    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HackathonDellaware/Buyer/index.html">
       <method v="2" />
     </configuration>
-    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HackathonDellaware/concept-master/index.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HackathonDellaware/concept-master/index.html">
       <method v="2" />
     </configuration>
-    <configuration name="main.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="main.js" working-dir="$PROJECT_DIR$/Login_v2/js">
+    <configuration name="main.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="main.js" working-dir="$PROJECT_DIR$/Login_v2/js">
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="JavaScript Debug.index.html" />
       <item itemvalue="JavaScript Debug.dashboard.html (1)" />
-      <item itemvalue="Node.js.main.js" />
       <item itemvalue="JavaScript Debug.index.html (1)" />
       <item itemvalue="JavaScript Debug.index.html (2)" />
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="Node.js.main.js" />
     </list>
     <recent_temporary>
       <list>
@@ -312,16 +210,15 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12715000" />
+    <option name="totallyTimeSpent" value="12728000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <frame x="946" y="0" width="981" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2641357" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21498372" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.07658959" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32947975" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.15895954" />
@@ -334,59 +231,53 @@
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.07658959" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34275362" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="changing layout" />
     <option name="LAST_COMMIT_MESSAGE" value="changing layout" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/concept-master/dashboard-influencer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="161" column="105" selection-start-line="161" selection-start-column="105" selection-end-line="161" selection-end-column="105" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/concept-master/dashboard-influencer.html" />
     <entry file="file://$PROJECT_DIR$/concept-master/pages/data-tables.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-575" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/concept-master/ecommerce-product.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/concept-master/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="553">
-          <caret line="960" column="12" selection-start-line="960" selection-start-column="12" selection-end-line="960" selection-end-column="12" />
+        <state relative-caret-position="589">
+          <caret line="378" column="112" selection-start-line="378" selection-start-column="112" selection-end-line="378" selection-end-column="112" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/concept-master/dashboard-finance.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="139" column="79" selection-start-line="26" selection-start-column="7" selection-end-line="139" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Buyer/BS3/dashboard.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="194" selection-start-line="194" selection-end-line="194" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/concept-master/ecommerce-product.html" />
+    <entry file="file://$PROJECT_DIR$/concept-master/dashboard-finance.html" />
+    <entry file="file://$PROJECT_DIR$/Buyer/BS3/dashboard.html" />
     <entry file="file://$PROJECT_DIR$/Buyer/.idea/misc.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -493,17 +384,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Buyer/all_farmers.html">
+    <entry file="file://$PROJECT_DIR$/Buyer/all_farmers.html" />
+    <entry file="file://$PROJECT_DIR$/concept-master/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="521" column="36" selection-start-line="521" selection-start-column="36" selection-end-line="521" selection-end-column="36" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#li#2;n#ul#0;n#div#0;n#nav#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#li#3;n#ul#0;n#div#0;n#nav#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#3;n#div#1;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
         </state>
       </provider>
     </entry>

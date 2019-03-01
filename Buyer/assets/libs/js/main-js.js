@@ -105,6 +105,13 @@ jQuery(document).ready(function($) {
  //     if ($('.dz-clickable').length) {
  //            $(".dz-clickable").dropzone({ url: "/file/post" });
  // }
+    $(document).ready(function(){
+        $('p:first-child').hide();
+
+        $('button').on('click', function(){
+            window.location="../../Buyer/information_about_load.html";
+        });
+    });
 
 }); // AND OF JQUERY
 
@@ -130,3 +137,4 @@ jQuery(document).ready(function($) {
    
 
 // });
+
